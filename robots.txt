@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eremormari.github.io/sitemap
+Sitemap: https://eremormari.github.io/app/sitemap
+Sitemap: https://eremormari.github.io/assets/sitemap
+Sitemap: https://eremormari.github.io/css/sitemap
+Sitemap: https://eremormari.github.io/includes/sitemap
+Sitemap: https://eremormari.github.io/item/sitemap
+Sitemap: https://eremormari.github.io/src/sitemap
